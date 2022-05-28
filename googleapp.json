@@ -1,0 +1,312 @@
+[
+    {
+        "successfulResult": {
+            "resultData": {
+                "@type": "type.googleapis.com/google.internal.cloud.console.clientapi.personalization.GetRecentPageviewsResponse",
+                "recentPageviews": {
+                    "pageviews": [
+                        {
+                            "timestamp": "2022-05-28T09:06:42.752189Z",
+                            "pagePath": "/marketplace/product/google/tpu.googleapis.com?returnUrl=%2Fcompute%2Ftpus%3Fproject%3Dcrackitsaas&project=crackitsaas",
+                            "templatePath": "/pan-unresolved-page-path",
+                            "pageTitle": "Machine images – Compute Engine – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "Machine images",
+                                "section": "Compute Engine",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-28T09:06:34.245376Z",
+                            "pagePath": "/compute/machineImages?project=crackitsaas",
+                            "templatePath": "/compute/machineImages",
+                            "pageTitle": "Machine images – Compute Engine – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "Machine images",
+                                "section": "Compute Engine",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-28T08:31:10.362517Z",
+                            "pagePath": "/iam-admin/cloudidentity/consumer?project=crackitsaas",
+                            "templatePath": "/iam-admin/cloudidentity/consumer",
+                            "pageTitle": "Identity & Organization – IAM & Admin – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "Identity & Organization",
+                                "section": "IAM & Admin",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-26T10:53:15.555746Z",
+                            "pagePath": "/compute/instances?project=crackitsaas",
+                            "templatePath": "/compute/instances",
+                            "pageTitle": "VM instances – Compute Engine – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "VM instances",
+                                "section": "Compute Engine",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-26T10:22:25.915892Z",
+                            "pagePath": "/iam-admin/iam?project=crackitsaas",
+                            "templatePath": "/iam-admin/iam",
+                            "pageTitle": "IAM – IAM & Admin – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "IAM",
+                                "section": "IAM & Admin",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-26T10:10:42.637510Z",
+                            "pagePath": "/getting-started?project=crackitsaas",
+                            "templatePath": "/getting-started",
+                            "pageTitle": "Getting started – Getting started – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "Getting started",
+                                "section": "Getting started",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-26T06:21:46.745709Z",
+                            "pagePath": "/support?project=crackitsaas",
+                            "templatePath": "/support",
+                            "pageTitle": "Support – CrackIT Technologies",
+                            "titleSegments": {
+                                "section": "Support",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-26T05:48:34.682652Z",
+                            "pagePath": "/marketplace?project=crackitsaas",
+                            "templatePath": "/marketplace",
+                            "pageTitle": "Marketplace – CrackIT Technologies",
+                            "titleSegments": {
+                                "section": "Marketplace",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-25T10:39:30.674084Z",
+                            "pagePath": "/run?project=crackitsaas",
+                            "templatePath": "/run",
+                            "pageTitle": "Cloud Run – CrackIT Technologies",
+                            "titleSegments": {
+                                "section": "Cloud Run",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-25T08:54:29.820520Z",
+                            "pagePath": "/apis/dashboard?project=crackitsaas",
+                            "templatePath": "/apis/dashboard",
+                            "pageTitle": "Enabled APIs & services – APIs & Services – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "Enabled APIs & services",
+                                "section": "APIs & Services",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-25T07:34:51.821530Z",
+                            "pagePath": "/products?returnUrl=%2Fspanner%3Fproject%3Dcrackitsaas&project=crackitsaas",
+                            "templatePath": "/products",
+                            "pageTitle": "All products – CrackIT Technologies",
+                            "titleSegments": {
+                                "section": "All products",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-25T06:36:36.291130Z",
+                            "pagePath": "/iam-admin/cloudidentity/consumer?project=crackitsaas",
+                            "templatePath": "/spanner/instances",
+                            "pageTitle": "IAM & Admin – CrackIT Technologies",
+                            "titleSegments": {
+                                "section": "IAM & Admin",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-25T06:31:57.325791Z",
+                            "pagePath": "/iam-admin/iam/log?project=crackitsaas",
+                            "templatePath": "/iam-admin/iam/log",
+                            "pageTitle": "IAM – IAM & Admin – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "IAM",
+                                "section": "IAM & Admin",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-25T06:28:22.674541Z",
+                            "pagePath": "/support/chat?project=crackitsaas",
+                            "templatePath": "/support/chat",
+                            "pageTitle": "Chat support – Support – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "Chat support",
+                                "section": "Support",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        },
+                        {
+                            "timestamp": "2022-05-25T06:26:47.033940Z",
+                            "pagePath": "/apis/library?project=crackitsaas",
+                            "templatePath": "/apis/library",
+                            "pageTitle": "Library – APIs & Services – CrackIT Technologies",
+                            "titleSegments": {
+                                "page": "Library",
+                                "section": "APIs & Services",
+                                "purview": "CrackIT Technologies",
+                                "console": "Google Cloud Platform"
+                            },
+                            "resource": "projects/crackitsaas",
+                            "resourceInfo": {
+                                "id": "projects/crackitsaas",
+                                "resourceNumber": "38552642900",
+                                "parent": "organizations/0",
+                                "resourceType": "PROJECT",
+                                "displayName": "CrackIT Technologies"
+                            }
+                        }
+                    ]
+                }
+            },
+            "etag": "2c5c5228a5f935d0"
+        },
+        "responseContext": {
+            "eti": "AYkCzc7G2VnDKMqOBXdzqzoLpkm+lhtA7QFd2tbvuHmTpHHiiXJr2WhKHxzwzSUoqdf1/ciLellvZNcnl9nBWmI2Hhmuj18s6dg9/aZjRFvG+ulr7KS4GVEBvQOVpwW7+yHd+deWeyEe7xaYkIYp6h2DUJJuAN3vUGLRs2LzNM7/AfBidNYPUfniBJg/Q/fiY4Z3TVfTQH8Ac1Yol3sAgJchRwGSIIDjjpueokISx/mB763HZC6p0nXTTmEtO6jyGwOWk412jEnJRrQ="
+        }
+    }
+]
